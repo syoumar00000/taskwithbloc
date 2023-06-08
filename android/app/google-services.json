@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47518243414",
+    "project_id": "tdapp-f0ec3",
+    "storage_bucket": "tdapp-f0ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47518243414:android:fdbf5e8dc7762c334a79f7",
+        "android_client_info": {
+          "package_name": "com.example.tdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47518243414-gqn8rultd8mm715bk1bq2947jbnt1ph8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tRrQt_97IjhEgbUn3q4mqm9C4ELMZVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47518243414-gqn8rultd8mm715bk1bq2947jbnt1ph8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
